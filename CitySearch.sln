@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CitySearch", "CitySearch.csproj", "{AB99BFDF-3528-45B9-9C12-2E64613C6C48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CitySearchTests", "CitySearchTests\CitySearchTests.csproj", "{1C2AE37B-1A4A-47E1-BD25-AA919272FCCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB99BFDF-3528-45B9-9C12-2E64613C6C48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB99BFDF-3528-45B9-9C12-2E64613C6C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB99BFDF-3528-45B9-9C12-2E64613C6C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB99BFDF-3528-45B9-9C12-2E64613C6C48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C2AE37B-1A4A-47E1-BD25-AA919272FCCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C2AE37B-1A4A-47E1-BD25-AA919272FCCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C2AE37B-1A4A-47E1-BD25-AA919272FCCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C2AE37B-1A4A-47E1-BD25-AA919272FCCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29E1AF9B-10F6-4E3A-BAE2-2DE78F6FE24C}
+	EndGlobalSection
+EndGlobal
